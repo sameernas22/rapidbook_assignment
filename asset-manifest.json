@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rapidbook_assignment/static/css/main.16a40a1f.css",
+    "main.js": "/rapidbook_assignment/static/js/main.a3ae6ef2.js",
+    "static/js/787.e7dccc2f.chunk.js": "/rapidbook_assignment/static/js/787.e7dccc2f.chunk.js",
+    "index.html": "/rapidbook_assignment/index.html",
+    "main.16a40a1f.css.map": "/rapidbook_assignment/static/css/main.16a40a1f.css.map",
+    "main.a3ae6ef2.js.map": "/rapidbook_assignment/static/js/main.a3ae6ef2.js.map",
+    "787.e7dccc2f.chunk.js.map": "/rapidbook_assignment/static/js/787.e7dccc2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16a40a1f.css",
+    "static/js/main.a3ae6ef2.js"
+  ]
+}
