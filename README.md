@@ -1,5 +1,7 @@
 # Rapid Book Assignment
 
+Site link :- https://sameernas22.github.io/rapidbook_assignment/
+
 Created using ReactJs
 
 Tech used :- 
